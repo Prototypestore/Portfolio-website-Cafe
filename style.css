@@ -89,7 +89,7 @@ MOBILE NAV
 }
 
 .menu-btn span {
-  transition: all 0.3s ease;
+  transition: all 0.3s ease, opacity 0.3s ease;
 }
 
 #nav ul{
@@ -373,7 +373,7 @@ DESKTOP
   }
 
   footer .middle{
-    dislay: block;
+    display: block;
     align-items: center;
     justify-content: center;
     text-align:center;
